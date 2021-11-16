@@ -3,7 +3,7 @@ https://johnshearing.github.io/
 Or just follow the links below
 <html>
 <body>
-<h1>Various Projects</h1>
+<h1>All Our Projects</h1>
 <p><a href="https://github.com/johnshearing/PrivateKeyVault#privatekeyvault---click-for-open-source-make-instructions">PrivateKeyVault</a></p>
 <p><a href="https://github.com/johnshearing/IOTA-Secure-Airgapped-Accounting-and-Banking-System">Application Generator for Blockchain Accounting on the PrivateKeyVault</a></p>
 <p><a href="https://github.com/johnshearing/Airgapped_Encrypted_Messaging">Encrypted Messaging For the PrivateKeyVault</a></p>
