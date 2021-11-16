@@ -1,4 +1,6 @@
-# johnshearing.github.io
+Follow this URL see home page listing all of our projects.  
+https://johnshearing.github.io/
+Or just follow the links below
 <html>
 <body>
 <h1>Various Projects</h1>
