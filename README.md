@@ -18,7 +18,8 @@ Or just follow the links below
 <p><a href="https://johnshearing.github.io/unseen_creatures_which_feed_on_humans/index.html#What_Is_God">What Is God?</a></p>  
 <p><a href="https://johnshearing.github.io/unseen_creatures_which_feed_on_humans/index.html#Where_Is_Jesus_Now">Where is Jesus Now?</a></p>
 <p><a href="https://johnshearing.github.io/unseen_creatures_which_feed_on_humans/index.html#What_Is_The_Holy_Spirit">What Is The Holy Spirit?</a></p> 
-<p><a href="https://johnshearing.github.io/unseen_creatures_which_feed_on_humans/index.html#What_Is_The_Soul">What Is The Soul?</a></p> 
+<p><a href="https://johnshearing.github.io/unseen_creatures_which_feed_on_humans/index.html#What_Is_The_Soul">What Is The Soul?</a></p>
+<p><a href="https://johnshearing.github.io/unseen_creatures_which_feed_on_humans/index.html#What_Is_Love">What Is Love?</a></p>  
 <p><a href="https://johnshearing.github.io/unseen_creatures_which_feed_on_humans/index.html#Praying_For_Good_Things">Praying For Good Things</a></p>
 <p><a href="https://johnshearing.github.io/where_is_john/index.html">Where Is John?</a></p>
 <p><a href="https://johnshearing.github.io/everyone_gets_out_alive/index.html">Everyone Gets Out Alive</a></p>  
