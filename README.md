@@ -4,6 +4,7 @@ Or just follow the links below
 <html>
 <body>
 <h1>All Our Projects</h1>
+<p><a href="https://johnshearing.github.io/pro_and_anti_politicians_list/index.html">List Of Articles Showing Where Politicians Stand On Crypto</a></p>
 <p><a href="https://johnshearing.github.io/cardano_syllabus/">Cardano Syllabus</a></p>
 <p><a href="https://github.com/johnshearing/PrivateKeyVault#privatekeyvault---click-for-open-source-make-instructions">PrivateKeyVault</a></p>
 <p><a href="https://github.com/johnshearing/IOTA-Secure-Airgapped-Accounting-and-Banking-System">Application Generator for Blockchain Accounting on the PrivateKeyVault</a></p>
