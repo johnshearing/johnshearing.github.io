@@ -26,6 +26,7 @@ Or just follow the links below
 <p><a href="https://johnshearing.github.io/unseen_creatures_which_feed_on_humans/index.html#Praying_For_Good_Things">Praying For Good Things</a></p>
 <p><a href="https://johnshearing.github.io/unseen_creatures_which_feed_on_humans/index.html#How_To_Pray">How To Pray</a></p>  
 <p><a href="https://johnshearing.github.io/where_is_john/index.html">Where Is John?</a></p>
-<p><a href="https://johnshearing.github.io/everyone_gets_out_alive/index.html">Everyone Gets Out Alive</a></p>  
+<p><a href="https://johnshearing.github.io/everyone_gets_out_alive/index.html">Everyone Gets Out Alive</a></p> 
+<p><a href="https://johnshearing.github.io/everyone_gets_out_alive/index.html#HoboJitsu">HoboJitsu</a></p>  
 </body>
 </html>
