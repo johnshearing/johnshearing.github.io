@@ -5,11 +5,9 @@
 </head>
   
 <body>
-<h1>Modeling Cardano Governance on Democracy In The Bee Colony</h1>
-
+<p><strong>Problem: Buying and Selling of Votes</strong></p>
 <ul>
-<li>With regard to CIP-1694, Treasury withdrawals come to mind but there could be a market for votes on most any governance action. It seems that in a close election where there is a lot of ADA waiting on the outcome, a market for votes is created where votes become much more valuable as we approach the <a href="https://github.com/JaredCorduan/CIPs/blob/voltaire-v1/CIP-1694/README.md#lifecycle">end of an epoch</a> when votes are tallied. Payment for votes could be in ADA or another currency. So there may be a perverse incentive for voters to wait till the last minutes of an epoch before casting votes in order to get the best price for their votes. Aside from corrupting the election, it could also overload the system as votes come in at the last moments before an epoch closes.
-<ul>
+<li>With regard to <a href="https://github.com/JaredCorduan/CIPs/blob/voltaire-v1/CIP-1694/README.md">CIP-1694</a>, Treasury withdrawals come to mind but there could be a market for votes on most any governance action. It seems that in a close election where there is a lot of ADA waiting on the outcome, a market for votes is created where votes become much more valuable as we approach the <a href="https://github.com/JaredCorduan/CIPs/blob/voltaire-v1/CIP-1694/README.md#lifecycle">end of an epoch</a> when votes are tallied. Payment for votes could be in ADA or another currency. So there may be a perverse incentive for voters to wait till the last minutes of an epoch before casting votes in order to get the best price for their votes. Aside from corrupting the election, it could also overload the system as votes come in at the last moments before an epoch closes.</li>
 <li>Delegation is linked to wallets in an obvious way so payment for votes could be most easily made in ADA.</li>
 <li>In this market for votes:
 <ul>
@@ -23,14 +21,12 @@
 </ul>
 </li>
 </ul>
-</li>
-</ul>
-<p><strong>Recommendation:</strong></p>
+<p><strong>Modeling Cardano Governance On Bee Democracy</strong></p>
 <ul>
 <li>The notion that we are locked into any given voting system because of current blockchain structure is an illusion
 <ul>
 <li>Our community can build anything it wants if we believe we can</li>
-<li>Let's build a blockchain to fit our voting needs not an inadequate voting system to fit our blockchain</li>
+<li>Let's build a blockchain to fit our voting needs not a voting system to fit our blockchain</li>
 </ul>
 </li>
 <li>Bee Democracy
@@ -52,30 +48,35 @@
 <li>BReps only receive delegation for the proposal they are currently soliciting for - Then delegation ends
 <ul>
 <li>This is key to a functioning democracy - DReps in the bee's world have to earn their delegation for each proposal</li>
-<li>In human democracy the DReps only their earn delegation once and then exploit their power for personal gain during the rest of their careers</li>
+<li>In human democracy the DReps only their earn delegation once and then learn to exploit their power for personal gain during the rest of their careers</li>
 <li>Bee democracy is structured like so because those structured differently were all selected out of existence</li>
 <li>We should model our democracy after the one which nature has perfected over the course of millions of years</li>
 </ul>
 </li>
 </ul>
 </li>
-<li>Building Cardano democracy on the bee democracy model
+<li>
+<strong>Abstracting bee democracy functions and applying these to Cardano governance</strong>
 <ul>
-<li>Each DRep must solicit for votes on each proposal (dance) to explain how they are voting on the proposal and why</li>
-<li>The DRep's vote is cast and embedded in the solicitation.</li>
-<li>The DRep's vote can not be changed once the solicitation has been published so voters know what they are getting</li>
-<li>Voters delegate to the DRep's solicitation rather than to the DRep directly</li>
-<li>Voters may change their delegation at any time before the final tally</li>
-<li>Voters may not vote directly, rather voters may register as a DRep and then delegate to their own solicitation if they wish.</li>
+<li>Each DRep must solicit for delegation on each and every proposal using an online document (a solicitation) which explains their position and which also locks their vote.</li>
+<li>The DRep's vote is cast and embedded in the solicitation with their digital signature.</li>
+<li>The DRep's vote can not be changed once the solicitation has been published so delegators know what they are getting</li>
+<li>Delegators delegate to the DRep's solicitation rather than to the DRep directly</li>
+<li>Delegators may change their delegation at any time before the final tally</li>
+<li>Delegators may not vote directly, rather Delegators may register as a DRep and then delegate to their own solicitation if they wish and then vote on that.</li>
 <li>This structure ensures that:
 <ul>
-<li>Voters have lots of good information to make their decisions</li>
-<li>Voters are deliberately casting their vote for a given proposal</li>
-<li>Uninformed voters don't vote</li>
+<li>Delegators have lots of good information to make their decisions</li>
+<li>Delegators are deliberately casting their delegation for a given proposal</li>
+<li>Uninformed delegators don't delegate</li>
+<li>Uninformed DReps don't vote</li>
+<li>Delegators know in advance, before delegation, how DReps voted and why</li>
+<li>DReps must explain their reasoning on every proposal</li>
 <li>A body of literature remains so future generations will understand how we came to our decisions and what they should consider before making changes</li>
+<li>DReps can remain anonymous, building reputations only on their body of solicitations which all have the same signature.</li>
 </ul>
 </li>
-<li>In bee democracy there is a race to consensus which prevents a market for votes from emerging - Bees don't sell their votes
+<li>In bee democracy there is a race to consensus which prevents a market for votes from emerging - Bees can't sell their votes
 <ul>
 <li>A race to consensus is not possible in Cardano democracy because too many votes in a short amount of time will jam the system</li>
 <li>So other methods must be employed to make votes more costly to buy then they are worth.
@@ -87,7 +88,7 @@
 <li>This may necessitate voting on a sidechain which has the required properties</li>
 </ul>
 </li>
-<li>Block the ability of anyone except the voter from seeing which solicitation an individual vote was delegated to
+<li>Block the ability of anyone except the delegator from seeing which solicitation an individual delegated to
 <ul>
 <li>This will help prevent a voting market from emerging during an election by making it difficult to determine the value of a vote</li>
 <li>Prevents a voting market from forming because it would not be easy for DReps to know where to send ADA in exchange for delegation</li>
@@ -101,10 +102,16 @@
 </ul>
 </li>
 <li>CC, DRep, and SPO votes to remain transparent by virtue of the solicitation process which forces all to explain their votes and leave a body of information so that future generations will understand why those decisions were made</li>
-<li>Code to enforce that DReps commit their vote prior to tally with no ability to reverse position or abstain which gives voters sufficient time to verify that DReps are voting as expected</li>
+<li>Code to enforce that DReps commit their vote in a signed solicitation for delegation prior to tally with no ability to reverse position or abstain which gives delegators sufficient time to verify that DReps are voting as expected</li>
+<li>Provide a forum (perhaps right here) for all DRep solicitations for delegation.</li>
 </ul>
 </li>
 </ul>
 </li>
 </ul>
+<p><strong>Conclusion:</strong></p>
+<ul>
+<li>The process of evolution has solved many engineering problems . Perhaps we should take a look at how nature to implements democracy</li>
+</ul>
+
 </body>
