@@ -68,17 +68,21 @@ Identity, Bootstrapping, Low voter turnout, Selling delegation and votes, DRep C
 <li>The BRep's vote is cast and embedded in the solicitation with their digital signature.</li>
 <li>The BRep's vote can not be changed once the solicitation has been published so delegators know what they are getting</li>
 <li>Delegators delegate ADA to the BRep's solicitation rather than to the BRep directly</li>
+<li>Delegators choose: Delegation of their ADA either adds to the weight of a solicitation vote, reduces the weight of a solicitation vote, or adds to the weight of the solicitation abstain option. Then the weights of all solicitations for a proposal are summed to decide the election. This way if no one writes a solicitation to deny a proposal then there is still a way to delegate against the proposal. Or if there is only a solicitation against a proposal then someone can still delegate for the proposal by delegating against the solicitation. Probably it is best that delegators can also delegate directly to the proposal itself either for, against, or abstain. This way if no solicitation is written then delegators can still delegate for or against the proposal. What that really means is that each proposal is actually a solicitation too - the proposal itself is also the first solicitation for delegation in support of the proposal.</li>
 <li>Delegators may change their delegation at any time before the final tally</li>
 <li>Delegators may not vote directly, rather Delegators may register as a BRep and then delegate ADA to their own solicitation if they wish and then vote on that.</li>
+<li>We will need filtering tools in our blockchain explorers to help delegators make sense of the volume of solicitations.</li>
+<li>We will need an immutable website (perhaps on IPFS) that uses a forum format much like we have here to contain the text and the hash for all governance proposals and all BRep solicitations for delegation, for or against the proposal. The webpage for each governance proposal will aggregate the votes and delegations on the solicitations so as to provide an audit trail for every governance proposal election.</li>
 <li>This structure ensures that:
 <ul>
 <li>Delegators have lots of good information to make their decisions</li>
-<li>Delegators are deliberately casting their delegation of ADA for a given proposal</li>
+<li>Delegators are deliberately casting their delegation of ADA for a given proposal via solicitations</li>
 <li>Uninformed delegators don't delegate</li>
 <li>Uninformed BReps don't vote</li>
 <li>Delegators know in advance, before delegation, how BReps voted and why</li>
 <li>BReps must explain their reasoning on every proposal</li>
 <li>A body of literature remains (the solicitations) so future generations will understand how we came to our decisions and what they should consider before making changes</li>
+<li>Votes and delegations are bound to solicitations for or against a proposal as an audit trail of the election and proof that there has not been any election fraud.</li>
 <li>BReps can remain anonymous, building reputations only on their body of solicitations which all have the same signature.</li>
 </ul>
 </li>
@@ -116,7 +120,6 @@ Identity, Bootstrapping, Low voter turnout, Selling delegation and votes, DRep C
 <li>In other words to rent out ADA for use as delegation, the renter will be forced to give up custody</li>
 </ul>
 </li>
-<li>Provide a forum (perhaps right here) for all BRep solicitations for delegation.</li>
 </ul>
 </li>
 </ul>
@@ -165,7 +168,6 @@ Science - <a href="https://www.science.org/doi/10.1126/science.1210361">Inhibiti
 Newsweek - <a href="https://www.newsweek.com/bee-colonies-behave-human-brain-study-finds-863576">Bee Colonies Behave Like the Human Brain</a>
 Nature - <a href="https://www.nature.com/articles/s41598-018-22616-y">Psychophysical Laws and the Superorganism</a></p>
 <p>The process of evolution has solved many engineering problems . Perhaps we should take a look at <a href="https://youtu.be/JnnjY823e-w?t=2309">peer reviewed science on how nature to implements democracy</a>. Bees don’t use their DReps to make decisions for the group. Bees use DReps as scouts. Bees use DReps to collect information and broadcast it to the group. Then all of them decide together. The Cardano protocol was built on peer reviewed science. Our community should look at peer reviewed science on how decision making has evolved in nature and apply what we can to Cardano governance.</p>
-
 
 
 <a href="https://forum.cardano.org/t/modeling-cardano-governance-on-a-version-of-democracy-which-evolved-over-millions-of-years/117109?u=johnshearing">Follow the conversation in the Cardano forum</a>
