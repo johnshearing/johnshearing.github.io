@@ -12,28 +12,12 @@
   
 <p>Problems addressed:
 Identity, Bootstrapping, Low voter turnout, Selling delegation and votes, DRep Corruption, Lack of domain expertise.</p>
-<p><strong>Problem: Buying and Selling of Delegation</strong></p>
-<ul>
-<li>With regard to <a href="https://github.com/JaredCorduan/CIPs/blob/voltaire-v1/CIP-1694/README.md">CIP-1694</a>, Treasury withdrawals come to mind but there could be a market for delegation on most any governance action. It seems that in a close election where there is a lot of ADA waiting on the outcome, a market for delegation is created where delegation becomes much more valuable as we approach the <a href="https://github.com/JaredCorduan/CIPs/blob/voltaire-v1/CIP-1694/README.md#lifecycle">end of an epoch</a> when votes are tallied. Payment for delegators could be in ADA or another currency. So there may be a perverse incentive for delegators to wait till the last minutes of an epoch before delegating in order to get the best price for their delegation. Aside from corrupting the election, it could also overload the system as votes come in at the last moments before an epoch closes.</li>
-<li>Delegation is linked to wallets in an obvious way so payment for delegation could be most easily made in ADA.</li>
-<li>In this market for delegation:
-<ul>
-<li>Where it is known exactly how much delegation you still need in order to get the ADA for your project out of the treasury,</li>
-<li>which makes possible to calculate with certainty the price for delegation which leaves you with your target profit margin intact,</li>
-<li>and where you can broadcast an offer to purchase delegation,</li>
-<li>and where you can see exactly which wallets are delegating to you in response to your offer...</li>
-<li>Then you know exactly where to send the delegator's share of ADA after snatching it from the treasury.</li>
-<li>Likely this fraud could be automated via smart contract in a trustless manner such that the price for  delegation is displayed and so that the dishonest delegators would not need to trust the dishonest DRep for payment.</li>
-<li>This attack could also be carried out on a vote for parameter change or on any other governance action.</li>
-</ul>
-</li>
-</ul>
 <p><strong>Modeling Cardano Governance On Bee Democracy</strong></p>
 <ul>
-<li>The notion that we are locked into any given voting system because of current blockchain structure is an illusion
+<li>The notion that we are locked into any given voting system because of current blockchain structure is an illusion. Our community can build anything it wants if we believe we can
 <ul>
-<li>Our community can build anything it wants if we believe we can</li>
-<li>By observing how evolution addresses democracy and abstracting the ideas into CIP-1694 we have the following:</li>
+<li>Cardano was built with sidechains and L2s like Hydra in mind from the very start just to handle special situations like governance.</li>
+<li>By observing how evolution addresses democracy and abstracting the ideas into <a href="https://github.com/JaredCorduan/CIPs/blob/voltaire-v1/CIP-1694/README.md">CIP-1694</a> we have the following:</li>
 </ul>
 </li>
 <li>Bee Democracy
@@ -55,15 +39,15 @@ Identity, Bootstrapping, Low voter turnout, Selling delegation and votes, DRep C
 <li>From the video we see that BReps dance for the delegators to communicate why their proposal is the best.</li>
 <li>Unlike our DReps...
 <ul>
+<li>The Bee Democracy structure enforces that BReps must earn delegation through honest debate using information they verify for themselves. The result is good decisions.
+<ul>
+<li>The Human Democracy structure has no means to enforce that DReps debate nor is there any means to ensure they make decisions based on information they have verified for themselves. The result is echo chambers, information bubbles, ignorance, hysteria, cronyism, and ultimately very bad decisions.</li>
+</ul>
+</li>
 <li>BReps only receive delegation for the proposal they are currently soliciting for - Then delegation ends
 <ul>
 <li>This is key to a functioning democracy - DReps in the bee's world have to earn their delegation for each proposal</li>
 <li>In human democracy the DReps only their earn delegation once and then learn to exploit their power for personal gain during the rest of their careers</li>
-</ul>
-</li>
-<li>The Bee Democracy structure enforces that BReps must earn delegation through honest debate using information they verify for themselves
-<ul>
-<li>The Human Democracy structure has no means to enforce that DReps debate nor is there any means to ensure they make decisions based on information they have verified for themselves</li>
 </ul>
 </li>
 <li>BReps (the scouts) compete for delegation with no reward except for the survival and prosperity of their hive which includes their own survival and prosperity
@@ -72,26 +56,7 @@ Identity, Bootstrapping, Low voter turnout, Selling delegation and votes, DRep C
 </ul>
 </li>
 <li>Bee democracy is structured like so because those structured differently were all selected out of existence</li>
-</ul>
-</li>
-<li>Compare Bee Democracy to Human Democracy:
-<ul>
-<li>Every bee has a weapon to defend their colony yet there are no wars between honey bee colonies
-<ul>
-<li>Human Bank/Governments take weapons from citizens yet force humans to kill other humans in war</li>
-</ul>
-</li>
-<li>Honey bees pollinate plants and make beautiful things grow all over the planet
-<ul>
-<li>Human Bank/Governments leave environmental destruction everywhere</li>
-</ul>
-</li>
-<li>All honey bees share the honey produced by the colony.
-<ul>
-<li>Some citizens in our Bank/Government are rich while other citizens live in poverty</li>
-</ul>
-</li>
-<li>Cardano Democracy cannot be modeled on Human Democracy without becoming a selfish monster just like all the others. But if IOG abstracts the structure and feedback mechanisms found in Bee Democracy and applies these to Cardano Democracy then we will have governance that does not learn to create the very problems it was built to solve in order to feed and grow. Evolution already did the research. All we need to do is look at what the bees are doing. We should model Cardano governance on Bee Democracy -  the one which nature has perfected over the course of millions of years</li>
+<li>Cardano Democracy cannot be modeled on Human Democracy without becoming a selfish monster that self-destructs over time just like all the others. But if IOG abstracts the structure and feedback mechanisms found in Bee Democracy and applies these to Cardano Democracy then we will have governance that does not learn to create the very problems it was built to solve in order to feed and grow. Evolution already did the research. All we need to do is look at what the bees are doing. We should model Cardano governance on Bee Democracy -  the one which nature has perfected over the course of millions of years</li>
 </ul>
 </li>
 <li>
@@ -107,7 +72,15 @@ Identity, Bootstrapping, Low voter turnout, Selling delegation and votes, DRep C
 <li>Delegators may not vote directly, rather Delegators may register as a BRep and then delegate ADA to their own solicitation if they wish and then vote on that.</li>
 <li>We will need filtering tools in our blockchain explorers to help delegators make sense of the volume of solicitations.</li>
 <li>We will need an immutable website (perhaps on IPFS) that uses a forum format much like we have here to contain the text and the hash for all governance proposals and all BRep solicitations for delegation, for or against the proposal. The webpage for each governance proposal will aggregate the votes and delegations on the solicitations so as to provide an audit trail for every governance proposal election.</li>
-<li>This structure ensures that:
+<li>CC, BRep, and SPO votes to remain transparent by virtue of the solicitation process which forces all to explain their votes and leave a body of information so that future generations will understand why those decisions were made</li>
+<li>Code to enforce that delegation of ADA to a solicitation must come from a wallet and never from a smart contract
+<ul>
+<li>This is to prevent trustless renting of ADA via smart contract for use as delegation in an election</li>
+<li>In other words to rent out ADA for use as delegation, the renter will be forced to give up custody</li>
+</ul>
+</li>
+<li>
+<strong>The Bee Democracy Structure Ensures That:</strong>
 <ul>
 <li>Delegators have lots of good information to make their decisions</li>
 <li>Delegators are deliberately casting their delegation of ADA for a given proposal via solicitations</li>
@@ -120,7 +93,33 @@ Identity, Bootstrapping, Low voter turnout, Selling delegation and votes, DRep C
 <li>BReps can remain anonymous, building reputations only on their body of solicitations which all have the same signature.</li>
 </ul>
 </li>
-<li>In bee democracy there is a race to consensus which prevents a market for delegation from emerging - Bees can't sell their delegation
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p><strong>Prevent Buying and Selling of Delegation</strong></p>
+<ul>
+<li>
+<p>With regard to <a href="https://github.com/JaredCorduan/CIPs/blob/voltaire-v1/CIP-1694/README.md">CIP-1694</a>, Treasury withdrawals come to mind but there could be a market for delegation on most any governance action. It seems that in a close election where there is a lot of ADA waiting on the outcome, a market for delegation is created where delegation becomes much more valuable as we approach the <a href="https://github.com/JaredCorduan/CIPs/blob/voltaire-v1/CIP-1694/README.md#lifecycle">end of an epoch</a> when votes are tallied. Payment for delegators could be in ADA or another currency. So there may be a perverse incentive for delegators to wait till the last minutes of an epoch before delegating in order to get the best price for their delegation. Aside from corrupting the election, it could also overload the system as votes come in at the last moments before an epoch closes.</p>
+</li>
+<li>
+<p>Delegation is linked to wallets in an obvious way so payment for delegation could be most easily made in ADA.</p>
+</li>
+<li>
+<p>In this market for delegation:</p>
+<ul>
+<li>Where it is known exactly how much delegation you still need in order to get the ADA for your project out of the treasury,</li>
+<li>which makes possible to calculate with certainty the price for delegation which leaves you with your target profit margin intact,</li>
+<li>and where you can broadcast an offer to purchase delegation,</li>
+<li>and where you can see exactly which wallets are delegating to you in response to your offer...</li>
+<li>Then you know exactly where to send the delegator's share of ADA after snatching it from the treasury.</li>
+<li>Likely this fraud could be automated via smart contract in a trustless manner such that the price for  delegation is displayed and so that the dishonest delegators would not need to trust the dishonest DRep for payment.</li>
+<li>This attack could also be carried out on a vote for parameter change or on any other governance action.</li>
+</ul>
+</li>
+<li>
+<p>In bee democracy there is a race to consensus which prevents a market for delegation from emerging - Bees can't sell their delegation</p>
 <ul>
 <li>A race to consensus is not possible in Cardano democracy because too many votes or delegations in a short amount of time will jam the system</li>
 <li>So other methods must be employed to make delegation of ADA more costly to buy then simply buying ADA at market rate.
@@ -140,18 +139,6 @@ Identity, Bootstrapping, Low voter turnout, Selling delegation and votes, DRep C
 <li>Allows proof that an election is not rigged</li>
 <li>Protects delegator from reprisal by current a regime</li>
 <li>This may necessitate voting on a sidechain which has the required properties</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-<li>CC, BRep, and SPO votes to remain transparent by virtue of the solicitation process which forces all to explain their votes and leave a body of information so that future generations will understand why those decisions were made</li>
-<li>Code to enforce that BReps commit their vote in a signed solicitation for delegation prior to tally with no ability to change the vote which gives delegators sufficient time to verify that BReps are voting as expected and gives delegators time to read and understand the solicitations prior to delegation</li>
-<li>Code to enforce that delegation of ADA to a solicitation must come from a wallet and never from a smart contract
-<ul>
-<li>This is to prevent trustless renting of ADA via smart contract for use as delegation in an election</li>
-<li>In other words to rent out ADA for use as delegation, the renter will be forced to give up custody</li>
 </ul>
 </li>
 </ul>
@@ -202,8 +189,89 @@ Identity, Bootstrapping, Low voter turnout, Selling delegation and votes, DRep C
 </ul>
 </li>
 </ul>
+<p><strong>Constitutional Issues</strong></p>
+<ul>
+<li>Decentralization Alone Can't Stop Cardano Governance From Becoming Like The Central Banks.
+<ul>
+<li>
+<strong>Constitutional Amendments Required:</strong>
+<ul>
+<li>
+<strong>No Oracles Will Decide Governance Issues</strong>
+<ul>
+<li>Community members are responsible for determining what is true and expressing it with solicitations, debate, votes, and delegation</li>
+</ul>
+</li>
+<li>
+<strong>ADA To Be The Only Form Of Currency Accepted Into The Treasury</strong>
+<ul>
+<li>No receipt money shall be accepted into the treasury:
+<ul>
+<li>Receipt money means you get a receipt for a commodity being held somewhere presumed to be safe</li>
+<li>History shows that all banks will eventually succumb to the temptation of lending out the commodity backing the receipt, either in secret or publicly as fractional reserve banking.</li>
+<li>This started in the middle ages when goldsmiths would hold gold in their safe for customers and provide a receipt which could be redeemed for the gold. Eventually the receipt became accepted as payment for commodities. But the goldsmiths would always lend out the gold to gain interest without telling the owners and would eventually default when the community discovered, leaving the customers with nothing. The most recent example of commodity-backed money was the US dollar which up until 1933 could be redeemed for gold at at $20.67 per troy ounce. Then it transitioned to fractional money when the price was changed to $35 per ounce in 1934, effectively reducing the value of the dollar by almost 41%. Then it transitioned to fiat money in 1971 - not redeemable for anything, but which citizens are required by law to accept. This is not the exception, this is the absolute rule. All commodity-backed money is a commodity in transition to fiat money. My understanding is that history has no exceptions to this rule. This information comes from <a href="https://drive.google.com/file/d/1Aj4rGWnTLvmXzG_gP0Xw_mM7T4Rnb3zi/view?usp=sharing">The Creature From Jekyll Island.pdf</a>. The transition may take several years but history shows that commodity-backed money always transitions to fiat money eventually. This has been going on since the middle ages and we now stand in a place where we can stop it.</li>
+</ul>
+</li>
+<li>No Stable Coins shall be accepted into the treasury
+<ul>
+<li>Stablecoins are just commodity or fiat backed overcollateralized receipt money in a new slick package. We have all seen what happens to stablecoins. Worse, all stablecoins that I know of are centralized money and require an oracle to function. So if spending requires using a stablecoin then the exchange must occur at the point of sale. Forbidding centralized currency forbids stablecoins and receipt money and commodity-backed and overcollateralized money. But we should forbid these explicitly. One thing we can not do is accept commodity-backed and overcollateralized money and stablecoins and then forbid centralized money because this is a contradiction - these are all centralized money.</li>
+</ul>
+</li>
+<li>No Algorithmic Stable Coins shall be accepted into the treasury
+<ul>
+<li>With Djed for example, we hear from Shahaf Bar-Geffen who is the COTI CEO that <a href="https://youtu.be/PipEUycQwfA?t=978">Djed may be colateralized with a basket of different coins not just ADA</a>. Another coin called Shen is already used in the process. I can't find much out about Shen - I don't know if it is a blockchain or a DAG like COTI. Further more, Djed is pegged to the dollar. So if you put $20 ADA in to the contract then you get $20 of Djed minus a fee for the exchange. When you want to cash out then you give your Djed back and get your $20 dollars worth of ADA back minus fees again. But what about inflation? Your $20 minus the fees is worth less because of inflation. So you suffer a loss because the dollar will be worth less when you go to get your ADA back. And if the dollar tanks then you are really in bad shape. Another concern is that Coti was associated with Ardana, and we all know how that went. Seems like the only reason to hold Djed in the Cardano treasury is if you think the price of ADA is going to fall. Does Cardano want to bet against itself? Reminds me of The Big Short. With all these questions about Djed and with all the bad history we have with stable coins it seems we should explicitly forbid holding them in the treasury.</li>
+</ul>
+</li>
+<li>Nothing that has physical existence such as buildings, land, equipment, timber, or gold shall be accepted into the treasury
+<ul>
+<li>Physical things can be confiscated or associated with a country or a government.</li>
+<li>Right now in the news we are seeing that Binance is surviving Choke Point 2 because Binance has no physical offices.</li>
+</ul>
+</li>
+<li>No Central Bank Digital Currencies shall be accepted into the treasury as these can be disappeared by the issuing authority.</li>
+<li>No digital commodities other than ADA will be accepted into the treasury
+<ul>
+<li>Receipt money, commodity-backed money, overcollateralized money, fiat money, fractional money, stable coins, algorithmic stable coins and CBDCs. That leaves only digital commodities like Bitcoin and ADA. But holding Bitcoin is betting that it will surpass ADA in value. It's betting against our own project.</li>
+</ul>
+</li>
+<li>No digital commodities from within the Cardano echo system other than ADA will be accepted into the treasury
+<ul>
+<li>So the only money left standing is ADA and perhaps Midnight when that arrives.
+ADA is preferable to Midnight because ADA is completely transparent which is very good for governance.</li>
+<li>History has shown that when a treasury holds more than one commodity (gold and silver) in the treasury it was difficult to establish a fixed price ratio between the two metals. This problem is known as the bimetallic standard problem. The problem arose because the relative values of gold and silver fluctuated over time, depending on supply and demand factors. The problem with the bimetallic standard was eventually resolved with the adoption of the gold standard, which established gold as the sole standard for currency. This made it easier to maintain a stable value for the currency and reduced the risk of currency fluctuations. We should remember this lesson from history and only accept ADA into the treasury.</li>
+</ul>
+</li>
+<li>There are times when Cardano governance will need to handle currencies other than ADA. For instance, we are required by law to accept fiat money like US dollars. But all currencies must be converted to ADA immediately upon receipt before going into the treasury. If spending requires using anything other than ADA then the exchange must occur at the point of sale. The whole point of ADA is to end slavery to the central banks. We must not give the banks a backdoor into our economy. We must not allow any form of money into the Cardano treasury except ADA. It almost seems like a Haskell problem where ADA is a pure function and you need a special method to output the value if you need to spend outside our economy. Better to do all the work in the function and input/output only when absolutely necessary.</li>
+</ul>
+</li>
+<li>
+<strong>Treasury Will Never Engage In Borrowing Or Lending</strong>
+<ul>
+<li>No lending using promissory notes. This should be impossible if payments are only made in ADA but should be explicitly stated so there is never a temptation to lend with promissory notes. Same as saying no double spending but banks make their money by double spending (Fractional Reserve Banking).
+<ul>
+<li>The treasury shall only receive ADA from protocol services such as staking fees and transactions fees</li>
+<li>The treasury will only disperse ADA to make donations or to purchase services for the community in transactions which are ratified in governance elections.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<strong>Explicitly recognize in the constitution that governments are complex adaptive systems that will learn to create the very problems they were instantiated to solve if money or benefits dispersed are allowed to feedback into the government agencies from which these originate.</strong>
+</li>
+</ul>
+</li>
+<li>Supporting Documentation on constitutional issues
+<ul>
+<li>
+<a href="https://drive.google.com/file/d/1Aj4rGWnTLvmXzG_gP0Xw_mM7T4Rnb3zi/view?usp=sharing">The Creature From Jekyll Island</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
 <p><strong>Conclusion:</strong></p>
-<p>All these ideas are abstracted from peer reviewed science on how bees implement democracy. Since bees have been doing it successfully for millions of years, it makes sense to consider what evolution has engineered and to use what we can. As it turns out, peer reviewed science also shows that the same methods that bees use to make decisions also evolved within the human brain. So if Cardano governance lasts long enough, the very same decision structures will likely evolve anyway. We can shorten the time it takes Cardano governance to evolve to provide the most truth and the best possible decisions for our community by studying how bee colonies and other complex adaptive systems make collective decisions.</p>
+<p>Most all these ideas are abstracted from peer reviewed science on how bees implement democracy. Since bees have been doing it successfully for millions of years, it makes sense to consider what evolution has engineered and to use what we can. As it turns out, peer reviewed science also shows that the same methods that bees use to make decisions also evolved within the human brain. So if Cardano governance lasts long enough, the very same decision structures will likely evolve anyway. We can shorten the time it takes Cardano governance to evolve to provide the most truth and the best possible decisions for our community by studying how bee colonies and other complex adaptive systems make collective decisions.</p>
 <ul>
 <li>Scientific American - <a href="https://www.scientificamerican.com/article/you-have-a-hive-mind/">You Have A Hive Mind</a>
 </li>
