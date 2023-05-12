@@ -51,7 +51,7 @@ https://youtu.be/3MwJOj3t8cI
 [Plasma Bottle](https://johnshearing.github.io/plasma_bottle/)  
 [Vacustat](https://johnshearing.github.io/vacustat/)
 
-## 
+## Spirituality
 [Belief and Faith](https://johnshearing.github.io/from_belief_to_faith/)
 
 ## Education
@@ -76,13 +76,11 @@ Previously I was employed at Bell Container in Newark NJ as the night time maint
 I worked there from October 2015 to June 2019
 
 Previous to Bell, I worked at Masque Sound in East Rutherford NJ for most of my adult life.  
-There I wrote accounting software in Delphi and SQL setup and ran the welding shop, the sheet metal shop, and the carpentry shop. I also made electronic gadgets of various sorts and installed industrial sound systems in many Broadway theaters 
+There I wrote accounting and inventory software in Delphi and SQL which was used to manage the company. I also served as plant manager, setup and ran the welding shop, the sheet metal shop, and the carpentry shop. I also made electronic gadgets of various sorts and installed industrial sound systems in many Broadway theaters.
 
-
-
-Also I speak pretty good Spanish, and I am an FAA Certified Ground Instructor for student pilots - so I have the skill of teaching and sharing knowledge with others. At the following link is a video I made as a public service about how to avoid stall and spin accidents in an airplane. 
+Also I am an FAA Certified Ground Instructor for student pilots - so I have the skill of teaching and sharing knowledge with others. At the following link is a video I made as a public service about how to avoid stall and spin accidents in an airplane. 
 http://youtu.be/UJQsAxB7E4Q
-The video has been seen by over 350,000 people, many of whom are pilots and student pilots. It has likely saved lives. I also make videos and write technical manuals about how to do specialized tasks or whatever else needs to be documented in the industrial environment.
+The video has been seen by over 350,000 people, many of whom are pilots and student pilots. It has likely saved lives. 
 
 Thank you for considering my application for employment, 
 John Shearing
