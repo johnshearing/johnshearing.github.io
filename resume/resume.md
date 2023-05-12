@@ -31,7 +31,7 @@ https://forum.cardano.org/u/johnshearing/activity/topics
 
 [Airgapped Messaging Using Private Key Vault](https://github.com/johnshearing/Airgapped_Encrypted_Messaging)
 
-[Airgapped Accounting System and Code Generator For Use With Blockchains](https://github.com/johnshearing/IOTA-Secure-Airgapped-Accounting-and-Banking-System)  
+[Airgapped Accounting System and Code Generator For Use With Blockchains (Plain Vanilla JavaScript - No Libraries)](https://github.com/johnshearing/IOTA-Secure-Airgapped-Accounting-and-Banking-System)  
 
 ## Deep Learning/Machine Vision    
 Videos showing one of my machine vision/deep learning projects for package sorting. 
