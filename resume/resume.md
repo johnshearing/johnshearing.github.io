@@ -36,11 +36,11 @@ https://forum.cardano.org/u/johnshearing/activity/topics
 ## Deep Learning/Machine Vision   
 Video showing machine vision used to transfer files across an airgap  
 https://youtu.be/3MwJOj3t8cI  
-[Source code here](https://github.com/johnshearing/Airgapped_Encrypted_Messaging)
+[Source code here](https://github.com/johnshearing/Airgapped_Encrypted_Messaging)  
 
-Videos showing one of my machine vision/deep learning projects for package sorting. 
-Source code available on request.
-https://youtu.be/wFjuUGUJyIY  
+Videos showing one of my machine vision/deep learning projects for package sorting  
+Source code available on request.  
+https://youtu.be/wFjuUGUJyIY   
 https://youtu.be/Pq97KxsR0aI    
 
 ## Public Safety  
