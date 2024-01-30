@@ -4,7 +4,7 @@ Or just follow the links below
 <html>
 <body>
 <h1>All Our Projects</h1>    
-<p><a href="https://github.com/johnshearing/beemocracy#readme">Modeling Cardano Governance on Democracy In The Bee Colony</a></p>  
+<p><a href="https://github.com/johnshearing/beemocracy/blob/main/Beemocracy2.0.md">Modeling Cardano Governance on Democracy In The Bee Colony</a></p>  
 <p><a href="https://github.com/johnshearing/A.i.-Classifiers-Zero-Knowledge-Proofs-Without-Zero-Knowledge-Cryptography">A.i.-Classifiers Zero Knowledge Proofs Without Zero Knowledge Cryptography</a></p>    
 <p><a href="https://johnshearing.github.io/cardano_syllabus/">Cardano Syllabus</a></p>
 <p><a href="https://github.com/johnshearing/PrivateKeyVault#privatekeyvault---click-for-open-source-make-instructions">PrivateKeyVault</a></p>
