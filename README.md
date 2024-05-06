@@ -11,6 +11,7 @@ Or just follow the links below
 <p><a href="https://github.com/johnshearing/IOTA-Secure-Airgapped-Accounting-and-Banking-System">Application Generator for Blockchain Accounting on the PrivateKeyVault</a></p>
 <p><a href="https://github.com/johnshearing/Airgapped_Encrypted_Messaging">Encrypted Messaging For the PrivateKeyVault</a></p>
 <p><a href="https://johnshearing.github.io/take_control_of_your_cryptocurrency_before_someone_else_does/index.html">Take Control Of Your Cryptocurrency Before Someone Else Does</a></p>
+<p><a href="https://github.com/johnshearing/ElectricalSafety">Electrical Safety Talk For Factory Electricians and Control Technicians</a></p>
 <p><a href="https://youtu.be/UJQsAxB7E4Q">Stall and Spin Prevention</a></p>
 <p><a href="https://www.thingiverse.com/thing:4257391">Protection Against Corona Virus</a></p>
 <p><a href="https://johnshearing.github.io/plasma_bottle/">Plasma Bottle</a></p>
