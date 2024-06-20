@@ -1,3 +1,5 @@
+This OpenSCAD file creates the image
+
 // Torus parameters
 outer_radius = 20;
 inner_radius = 1;
