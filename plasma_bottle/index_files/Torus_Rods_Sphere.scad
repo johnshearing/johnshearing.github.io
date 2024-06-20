@@ -1,4 +1,4 @@
-This OpenSCAD file creates the image
+// This OpenSCAD file creates the image PlasmaBottleCAD.jpg which is found in this directory.
 
 // Torus parameters
 outer_radius = 20;
