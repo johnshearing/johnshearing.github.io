@@ -3,8 +3,7 @@ https://johnshearing.github.io/
 Or just follow the links below
 <html>
 <body>
-<h1>All Our Projects</h1>    
-<p><a href="https://github.com/johnshearing/beemocracy/blob/main/Beemocracy2.0.md">Modeling Cardano Governance on Democracy In The Bee Colony</a></p>  
+<h1>All Our Projects</h1>     
 <p><a href="https://github.com/johnshearing/beemocracy/blob/main/BeemocracyMina.md">Modeling Mina Governance on Democracy In The Bee Colony</a></p> 
 <p><a href="https://github.com/johnshearing/A.i.-Classifiers-Zero-Knowledge-Proofs-Without-Zero-Knowledge-Cryptography/blob/main/README.md">A.i.-Classifiers Zero Knowledge Proofs Without Zero Knowledge Cryptography</a></p>    
 <p><a href="https://github.com/johnshearing/MachineControlByObjectDetection">Machine Control By Object Detection</a></p>  
