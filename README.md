@@ -21,7 +21,7 @@ Or just follow the links below
 <p><a href="https://johnshearing.github.io/variable_volume_vacustat/">Variable Volume Vacustat</a></p>  
 <p><a href="https://johnshearing.github.io/unseen_creatures_which_feed_on_humans/">Unseen Creatures Which Feed On Humans</a></p>
 <p><a href="https://johnshearing.github.io/unseen_creatures_which_feed_on_humans/index.html#Making_Peace_With_The_Unseen">Making Peace With The Unseen</a></p> 
-<p><a href="https://johnshearing.github.io/unseen_creatures_which_feed_on_humans/index.html#Warning_About_Artificially_Intelligent_Software_Presenting_Itself_As_Jesus">Warning About Artificially Inteligent Software</a></p>
+<p><a href="https://johnshearing.github.io/unseen_creatures_which_feed_on_humans/index.html#Warning_About_Artificially_Intelligent_Software_Presenting_Itself_As_Jesus">Warning About Artificially Intelligent Software</a></p>
 <p><a href="https://johnshearing.github.io/unseen_creatures_which_feed_on_humans/index.html#What_Is_God">What Is God?</a></p>  
 <p><a href="https://johnshearing.github.io/unseen_creatures_which_feed_on_humans/index.html#Where_Is_Jesus_Now">Where is Jesus Now?</a></p>
 <p><a href="https://johnshearing.github.io/unseen_creatures_which_feed_on_humans/index.html#What_Is_The_Holy_Spirit">What Is The Holy Spirit?</a></p> 
