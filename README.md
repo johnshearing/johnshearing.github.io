@@ -4,7 +4,8 @@ Or just follow the links below
 <html>
 <body>
 <h1>All Our Projects</h1>     
-<p><a href="https://github.com/johnshearing/beemocracy/blob/main/BeemocracyMina.md">Modeling Mina Governance on Democracy In The Bee Colony</a></p> 
+<p><a href="https://github.com/johnshearing/bioelectocracy/blob/main/README.md">BioElectocracy: Modeling Human Governance On Morphogenesis</a></p>  
+<p><a href="https://github.com/johnshearing/beemocracy/blob/main/BeemocracyMina.md">Beemocracy: Modeling Mina Governance on Democracy In The Bee Colony</a></p> 
 <p><a href="https://github.com/johnshearing/A.i.-Classifiers-Zero-Knowledge-Proofs-Without-Zero-Knowledge-Cryptography/blob/main/README.md">A.i.-Classifiers Zero Knowledge Proofs Without Zero Knowledge Cryptography</a></p>    
 <p><a href="https://github.com/johnshearing/MachineControlByObjectDetection">Machine Control By Object Detection</a></p>  
 <p><a href="https://johnshearing.github.io/cardano_syllabus/">Cardano Syllabus</a></p>
