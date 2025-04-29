@@ -4,10 +4,7 @@ Or just follow the links below
 <html>
 <body>
 <h1>All Our Projects</h1>     
-
-  https://github.com/johnshearing/deep_avatar 
- 
-<p><a href="https://github.com/johnshearing/deep_avatar ">Deep Avatar</a></p> 
+<p><a href="https://github.com/johnshearing/deep_avatar ">Deep Avatar: Creating a.i. Proxies Which Give Same Answers as Human Models</a></p> 
 <p><a href="https://github.com/johnshearing/MachineControlByObjectDetection">Machine Control By Object Detection</a></p> 
 <p><a href="https://github.com/johnshearing/A.i.-Classifiers-Zero-Knowledge-Proofs-Without-Zero-Knowledge-Cryptography/blob/main/README.md">A.i.-Classifiers Zero Knowledge Proofs Without Zero Knowledge Cryptography</a></p>    
 <p><a href="https://github.com/johnshearing/PrivateKeyVault#privatekeyvault---click-for-open-source-make-instructions">PrivateKeyVault</a></p>
