@@ -4,13 +4,17 @@ Or just follow the links below
 <html>
 <body>
 <h1>All Our Projects</h1>     
-<p><a href="https://github.com/johnshearing/bioelectocracy/blob/main/README.md">BioElectocracy: Modeling Human Governance On Morphogenesis</a></p>  
-<p><a href="https://github.com/johnshearing/beemocracy/blob/main/BeemocracyMina.md">Beemocracy: Modeling Mina Governance On Collective Decision Making In The Bee Colony</a></p>  
+
+  https://github.com/johnshearing/deep_avatar 
+ 
+<p><a href="https://github.com/johnshearing/deep_avatar ">Deep Avatar</a></p> 
+<p><a href="https://github.com/johnshearing/MachineControlByObjectDetection">Machine Control By Object Detection</a></p> 
 <p><a href="https://github.com/johnshearing/A.i.-Classifiers-Zero-Knowledge-Proofs-Without-Zero-Knowledge-Cryptography/blob/main/README.md">A.i.-Classifiers Zero Knowledge Proofs Without Zero Knowledge Cryptography</a></p>    
-<p><a href="https://github.com/johnshearing/MachineControlByObjectDetection">Machine Control By Object Detection</a></p>  
 <p><a href="https://github.com/johnshearing/PrivateKeyVault#privatekeyvault---click-for-open-source-make-instructions">PrivateKeyVault</a></p>
-<p><a href="https://github.com/johnshearing/IOTA-Secure-Airgapped-Accounting-and-Banking-System">Application Generator for Blockchain Accounting on the PrivateKeyVault</a></p>
 <p><a href="https://github.com/johnshearing/Airgapped_Encrypted_Messaging">Encrypted Messaging For the PrivateKeyVault</a></p>
+<p><a href="https://github.com/johnshearing/IOTA-Secure-Airgapped-Accounting-and-Banking-System">Application Generator for Blockchain Accounting on the PrivateKeyVault</a></p>
+<p><a href="https://github.com/johnshearing/bioelectocracy/blob/main/README.md">BioElectocracy: Modeling Human Governance On Morphogenesis</a></p>  
+<p><a href="https://github.com/johnshearing/beemocracy/blob/main/BeemocracyMina.md">Beemocracy: Modeling Mina Governance On Collective Decision Making In The Bee Colony</a></p> 
 <p><a href="https://johnshearing.github.io/take_control_of_your_cryptocurrency_before_someone_else_does/index.html">Take Control Of Your Cryptocurrency Before Someone Else Does</a></p>
 <p><a href="https://johnshearing.github.io/cardano_syllabus/">Cardano Syllabus</a></p>  
 <p><a href="https://github.com/johnshearing/ControlTechniciansTroubleshootingCheckList/blob/main/README.md">Control Technician's Troubleshooting Checklist</a></p>
