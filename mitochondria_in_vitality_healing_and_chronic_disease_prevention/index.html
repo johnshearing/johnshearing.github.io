@@ -1,5 +1,68 @@
 <!DOCTYPE html>
 <html lang="en">
+
+
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Collapsible Tree Structure</title>
+    <!-- Basic styling to make the tree structure look a little cleaner -->
+    <style>
+        body {
+            font-family: sans-serif;
+            margin: 2rem;
+            background-color: #f0f4f8;
+            color: #333;
+        }
+        .tree-container {
+            background-color: white;
+            padding: 1.5rem;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            max-width: 600px;
+            margin: auto;
+        }
+        details {
+            margin-bottom: 0.5rem;
+        }
+        summary {
+            font-weight: bold;
+            cursor: pointer;
+            list-style: none; /* Hides the default arrow */
+            padding: 0.25rem 0;
+            outline: none;
+            display: flex;
+            align-items: center;
+        }
+        summary::before {
+            content: "▶"; /* Custom collapsible arrow for closed state */
+            margin-right: 0.5rem;
+            transition: transform 0.2s ease;
+            font-size: 0.8rem;
+        }
+        details[open] > summary::before {
+            content: "▼"; /* Custom arrow for open state */
+            transform: rotate(0deg);
+        }
+        ul {
+            list-style-type: none;
+            padding-left: 2rem;
+            margin: 0.5rem 0;
+        }
+        li a {
+            color: #2563eb;
+            text-decoration: none;
+        }
+        li a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+
+
+
+<!-- Start of: Commented out in favor of new styling above
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -27,6 +90,10 @@
     }
   </style>
 </head>
+End of: Commented out in favor of new styling above -->
+
+
+  
 <body>
   <a href="https://johnshearing.github.io/" >Main List of Projects</a><br>
   <a href="https://johnshearing.github.io/mitochondria_in_vitality_healing_and_chronic_disease_prevention/spanish.html">Spanish Version</a><br>
