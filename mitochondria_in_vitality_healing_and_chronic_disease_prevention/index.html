@@ -80,8 +80,8 @@
   <details>
   <summary>
     <h2 class="link-heading">
-      🎬 Click here to view all source videos for this webpage 🎬<br> 
-      💬 Talk with AI about Dr. Seheult's video content 💬
+      🎬 👉Click here to show all source videos for this webpage 👈🎬<br> 
+      💬 👉Click here to talk with AI about Dr. Seheult's video content 👈💬
     </h2>
   </summary>
   <ul>          
@@ -741,5 +741,26 @@
     </ul>
 </details>
 
+
+<script>
+  // Get the details element
+  const detailsElement = document.querySelector('details');
+  
+  // Get the h2 element inside the summary
+  const headingElement = document.querySelector('details summary .link-heading');
+
+  // Add an event listener for the 'toggle' event on the details element
+  detailsElement.addEventListener('toggle', () => {
+    if (detailsElement.open) {
+      // If the details element is open, change the text to "hide"
+      headingElement.innerHTML = '🎬 👉Click here to hide all source videos for this webpage 👈🎬<br>💬 👉Click here to talk with AI about Dr. Seheult\'s video content 👈💬';
+    } else {
+      // If the details element is closed, change the text back to "show"
+      headingElement.innerHTML = '🎬 👉Click here to show all source videos for this webpage 👈🎬<br>💬 👉Click here to talk with AI about Dr. Seheult\'s video content 👈💬';
+    }
+  });
+</script>
+
+    
 </body>
 </html>
