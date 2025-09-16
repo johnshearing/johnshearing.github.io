@@ -57,9 +57,15 @@
             content: "▼"; /* Custom arrow for open state */
             transform: rotate(0deg);
         }
-        summary:has(.link-heading) {
-          list-style: none;
-        }         
+        /* This rule targets the custom arrow on the specific summary element */
+        summary:has(.link-heading)::before {
+            content: none; /* or content: ''; */
+        }
+        
+        /* This rule ensures the arrow doesn't appear when the menu is open either */
+        details[open] > summary:has(.link-heading)::before {
+            content: none; /* or content: ''; */
+        }
         ul {
             list-style-type: none;
             padding-left: 2rem;
