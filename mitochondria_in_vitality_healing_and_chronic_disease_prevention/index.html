@@ -19,10 +19,7 @@
         /* The following rule is more specific and will override the one above */
        .link-heading {
          color: #0000ee; /* This is the default blue for links */
-        }
-        summary:has(.link-heading) {
-          list-style: none;
-        }        
+        }       
         blockquote {
           font-style: italic;
           background: #f8f1ed;
@@ -55,11 +52,14 @@
             margin-right: 0.5rem;
             transition: transform 0.2s ease;
             font-size: 0.8rem;
-        }
+        }        
         details[open] > summary::before {
             content: "▼"; /* Custom arrow for open state */
             transform: rotate(0deg);
         }
+        summary:has(.link-heading) {
+          list-style: none;
+        }         
         ul {
             list-style-type: none;
             padding-left: 2rem;
