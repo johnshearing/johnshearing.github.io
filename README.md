@@ -5,7 +5,7 @@ Or just follow the links below
 <body>
 <h1>All Our Projects</h1>
 <p><a href="https://johnshearing.github.io/mitochondria_in_vitality_healing_and_chronic_disease_prevention/">Mitochondria In Vitality, Healing, and Chronic Disease Prevention</a></p>
-<p><a href="https://github.com/johnshearing/deep_avatar">Deep Avatar: Creating a.i. Proxies Which Give the Same Answers as Their Human Models</a></p> 
+<p><a href="https://github.com/johnshearing/deep_avatar ">Deep Avatar: Creating a.i. Proxies Which Give the Same Answers as Their Human Models</a></p> 
 <p><a href="https://github.com/johnshearing/MachineControlByObjectDetection">Machine Control By Object Detection</a></p> 
 <p><a href="https://github.com/johnshearing/A.i.-Classifiers-Zero-Knowledge-Proofs-Without-Zero-Knowledge-Cryptography/blob/main/README.md">A.i.-Classifiers Zero Knowledge Proofs Without Zero Knowledge Cryptography</a></p>    
 <p><a href="https://github.com/johnshearing/PrivateKeyVault#privatekeyvault---click-for-open-source-make-instructions">PrivateKeyVault</a></p>
@@ -13,29 +13,29 @@ Or just follow the links below
 <p><a href="https://github.com/johnshearing/IOTA-Secure-Airgapped-Accounting-and-Banking-System">Application Generator for Blockchain Accounting on the PrivateKeyVault</a></p>
 <p><a href="https://github.com/johnshearing/bioelectocracy/blob/main/README.md">BioElectocracy: Modeling Human Governance On Morphogenesis</a></p>  
 <p><a href="https://github.com/johnshearing/beemocracy/blob/main/BeemocracyMina.md">Beemocracy: Modeling Mina Governance On Collective Decision Making In The Bee Colony</a></p> 
-<p><a href="https://johnshearing.github.io/take_control_of_your_cryptocurrency_before_someone_else_does/index.html">Take Control Of Your Cryptocurrency Before Someone Else Does</a></p>
+<p><a href="https://johnshearing.github.io/take_control_of_your_cryptocurrency_before_someone_else_does/index.html">Take Control Of Your Cryptocurrency Before Someone Else Does</a></p>  
 <p><a href="https://johnshearing.github.io/cardano_syllabus/">Cardano Syllabus</a></p>  
 <p><a href="https://github.com/johnshearing/ControlTechniciansTroubleshootingCheckList/blob/main/README.md">Control Technician's Troubleshooting Checklist</a></p>
-<p><a href="https://github.com/johnshearing/ElectricalSafety/blob/main/README.md">Electrical Safety Talk For Factory Electricians and Control Technicians</a></p>
+<p><a href="https://github.com/johnshearing/ElectricalSafety/blob/main/README.md">Electrical Safety Talk For Factory Electricians and Control Technicians</a></p>  
 <p><a href="https://youtu.be/UJQsAxB7E4Q">Stall and Spin Prevention</a></p>
 <p><a href="https://www.thingiverse.com/thing:4257391">Protection Against Corona Virus</a></p>
 <p><a href="https://johnshearing.github.io/plasma_bottle/">Plasma Bottle</a></p>
 <p><a href="https://johnshearing.github.io/vacustat/">Vacustat</a></p>
-<p><a href="https://johnshearing.github.io/variable_volume_vacustat/">Variable Volume Vacustat</a></p>  
-<p><a href="https://johnshearing.github.io/bible_passages_where_jesus_speaks/">Bible Passages Where Jesus Speaks</a></p>
+<p><a href="https://johnshearing.github.io/variable_volume_vacustat/">Variable Volume Vacustat</a></p>
+<p><a href="https://johnshearing.github.io/bible_passages_where_jesus_speaks/">Bible Passages Where Jesus Speaks</a></p>  
 <p><a href="https://johnshearing.github.io/unseen_creatures_which_feed_on_humans/">Unseen Creatures Which Feed On Humans</a></p>
-<p><a href="https://johnshearing.github.io/unseen_creatures_which_feed_on_humans/index.html#Making_Peace_With_The_Unseen">Making Peace With The Unseen</a></p> 
-<p><a href="https://johnshearing.github.io/unseen_creatures_which_feed_on_humans/index.html#Warning_About_Artificially_Intelligent_Software_Presenting_Itself_As_Jesus">Warning About Artificially Intelligent Software</a></p>
-<p><a href="https://johnshearing.github.io/unseen_creatures_which_feed_on_humans/index.html#What_Is_God">What Is God?</a></p>  
-<p><a href="https://johnshearing.github.io/unseen_creatures_which_feed_on_humans/index.html#Where_Is_Jesus_Now">Where is Jesus Now?</a></p>
-<p><a href="https://johnshearing.github.io/unseen_creatures_which_feed_on_humans/index.html#What_Is_The_Holy_Spirit">What Is The Holy Spirit?</a></p> 
-<p><a href="https://johnshearing.github.io/unseen_creatures_which_feed_on_humans/index.html#What_Is_The_Soul">What Is The Soul?</a></p>
+<p><a href="https://johnshearing.github.io/unseen_creatures_which_feed_on_humans/index.html#Making_Peace_With_The_Unseen">Making Peace With The Unseen</a></p>  
+<p><a href="https://johnshearing.github.io/unseen_creatures_which_feed_on_humans/index.html#Warning_About_Artificially_Intelligent_Software_Presenting_Itself_As_Jesus">Warning About Artificially Intelligent Software</a></p>  
+<p><a href="https://johnshearing.github.io/unseen_creatures_which_feed_on_humans/index.html#Who_is_Jesus_and_Where_is_He_Now">Who Is Jesus and Where is He Now?</a></p>  
+<p><a href="https://johnshearing.github.io/unseen_creatures_which_feed_on_humans/index.html#Who_and_What_is_God_the_Father">Who and What Is God the Father?</a></p>  
+<p><a href="https://johnshearing.github.io/unseen_creatures_which_feed_on_humans/index.html#Who_and_What_is_God_The_Son">Who and What Is God The Son?</a></p>
+<p><a href="https://johnshearing.github.io/unseen_creatures_which_feed_on_humans/index.html#Who_and_What_is_the_Trinity">Who and What Is the Trinity?</a></p>  
+<p><a href="https://johnshearing.github.io/unseen_creatures_which_feed_on_humans/index.html#What_Is_The_Holy_Spirit">What Is The Holy Spirit?</a></p>
+<p><a href="https://johnshearing.github.io/unseen_creatures_which_feed_on_humans/index.html#What_Is_The_Soul">What Is The Soul?</a></p>  
 <p><a href="https://johnshearing.github.io/unseen_creatures_which_feed_on_humans/index.html#What_Is_Love">What Is Love?</a></p>  
 <p><a href="https://johnshearing.github.io/unseen_creatures_which_feed_on_humans/index.html#Praying_For_Good_Things">Praying For Good Things</a></p>
-<p><a href="https://johnshearing.github.io/unseen_creatures_which_feed_on_humans/index.html#How_To_Pray">How To Pray</a></p>  
-<p><a href="https://johnshearing.github.io/from_belief_to_faith">From Belief To Faith</a></p>
+<p><a href="https://johnshearing.github.io/unseen_creatures_which_feed_on_humans/index.html#How_To_Pray">How To Pray</a></p> 
+<p><a href="https://johnshearing.github.io/from_belief_to_faith">From Belief To Faith</a></p>     
 <p><a href="https://johnshearing.github.io/where_is_john/index.html">Where Is John?</a></p>
-<p><a href="https://johnshearing.github.io/everyone_gets_out_alive/index.html">Everyone Gets Out Alive</a></p> 
-<p><a href="https://johnshearing.github.io/everyone_gets_out_alive/index.html#HoboJitsu">HoboJitsu</a></p>  
-</body>
-</html>
+<p><a href="https://johnshearing.github.io/everyone_gets_out_alive/index.html">Everyone Gets Out Alive</a></p>
+<p><a href="https://johnshearing.github.io/everyone_gets_out_alive/index.html#HoboJitsu">HoboJitsu</a></p>
