@@ -903,6 +903,31 @@ detailsElement.addEventListener('toggle', () => {
 });
 </script>
 -->
+
+<script>
+// Get the details element
+const detailsElement = document.querySelector('details');
+// Get the h2 element inside the summary
+const headingElement = document.querySelector('details summary .link-heading');
+
+// Store the two parts of the heading text for easy toggling
+const showVideosText = '🎬 👉Click here to show all source videos for this webpage 👈🎬';
+const hideVideosText = '🎬 👉Click here to <span style="color: red;">hide</span> all source videos for this webpage 👈🎬';
+const talkWithAIText = '<br>💬 👉Click here to talk with AI about Dr. Seheult\'s video content 👈💬';
+
+// Add an event listener for the 'toggle' event on the details element
+detailsElement.addEventListener('toggle', () => {
+  if (detailsElement.open) {
+    // If the details element is open, show the "hide videos" text
+    // and hide the "talk with AI" text.
+    headingElement.innerHTML = hideVideosText;
+  } else {
+    // If the details element is closed, show the "show videos" text
+    // and reveal the "talk with AI" text.
+    headingElement.innerHTML = showVideosText;
+  }
+});
+</script>    
     
 </body>
 </html>
