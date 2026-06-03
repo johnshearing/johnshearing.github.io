@@ -5,7 +5,8 @@ Or just follow the links below
 <body>
 <h1>All Our Projects</h1>
 <p><a href="https://johnshearing.github.io/mitochondria_in_vitality_healing_and_chronic_disease_prevention/">Mitochondria In Vitality, Healing, and Chronic Disease Prevention</a></p>
-<p><a href="https://github.com/johnshearing/deep_avatar ">Deep Avatar: Creating a.i. Proxies Which Give the Same Answers as Their Human Models</a></p> 
+<p><a href="https://github.com/johnshearing/pool_ranger">Pool Ranger: a Cardano staking management platform built on Plutus V3 smart contracts</a></p>
+<p><a href="https://github.com/johnshearing/deep_avatar">Deep Avatar: Creating a.i. Proxies Which Give the Same Answers as Their Human Models</a></p> 
 <p><a href="https://github.com/johnshearing/MachineControlByObjectDetection">Machine Control By Object Detection</a></p> 
 <p><a href="https://github.com/johnshearing/A.i.-Classifiers-Zero-Knowledge-Proofs-Without-Zero-Knowledge-Cryptography/blob/main/README.md">A.i.-Classifiers Zero Knowledge Proofs Without Zero Knowledge Cryptography</a></p>    
 <p><a href="https://github.com/johnshearing/PrivateKeyVault#privatekeyvault---click-for-open-source-make-instructions">PrivateKeyVault</a></p>
